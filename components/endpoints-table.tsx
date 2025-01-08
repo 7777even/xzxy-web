@@ -68,18 +68,18 @@ export function EndpointsTable() {
             variant="outline"
             className="rounded-full border border-gray-500 text-gray-400 hover:bg-gray-100 px-6 py-2 font-semibold"
           >
-            部署
+            删除
           </Button>
           <Button
             variant="outline"
             className="rounded-full border border-gray-500 text-gray-400 hover:bg-gray-100 px-6 py-2font-semibold "
           >
-            删除
+            创建
           </Button>
           <Button
             className="rounded-full bg-blue-500 text-white hover:bg-blue-600 px-6 py-2 font-semibold"
           >
-            创建新任务
+            Start Chat
           </Button>
         </div>
 

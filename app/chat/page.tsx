@@ -10,8 +10,7 @@ export default function Page() {
                 <Sidebar />
                 <main className="flex-1 overflow-y-auto p-6 ml-6">
                     <div className="flex items-center gap-2 text-sm text-gray-500">
-                        <span>Model Hub</span>
-                        <span>&gt;</span>
+                        <a href="#" className="text-blue-500 underline hover:text-blue-700">Model Hub</a>                        <span>&gt;</span>
                         <span>环境</span>
                     </div>
                     <div className="mt-4">
